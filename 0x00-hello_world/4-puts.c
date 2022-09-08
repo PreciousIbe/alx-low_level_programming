@@ -1,4 +1,4 @@
-#include <stdio>
+#include <stdio.h>
 /**
  * The Program prints exactly "Programming is like building a multilingual puzzzle\n"
  * return 0;
